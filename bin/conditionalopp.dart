@@ -27,8 +27,14 @@ void main(){
 
   print(largest5);
   int ?ages;
+  print(ages=45);
   //
   // ages=45;
   var res=ages ?? "null";
   print(res);
+//
+  int ?color;
+  print(color);
+  var fvrtcolor=color ?? "no color choosed";
+  print(fvrtcolor);
 }

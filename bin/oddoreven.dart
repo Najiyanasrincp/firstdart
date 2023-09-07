@@ -7,7 +7,7 @@ void main(){
     print('it is even number');
   }
   else{
-    print('odd');
+    print('it is odd number');
   }
 
 }
